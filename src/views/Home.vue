@@ -1,5 +1,7 @@
 <template>
-  <div class="home"></div>
+  <div>
+    Copyright © 2018 Edunoz - All Rights Reserved.
+  </div>
 </template>
 
 <script>
